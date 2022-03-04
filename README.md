@@ -1,0 +1,1 @@
+# HackerRank-Ebola-Cure-in-c
